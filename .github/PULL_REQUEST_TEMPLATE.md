@@ -1,6 +1,6 @@
 # Pull Request Template
 
-Thank you for your contribution to the CAE Algorithm project! Before submitting this Pull Request, please make sure your changes do not duplicate efforts proposed by others. Also, ensure you have read the [contributing guidelines](https://github.com/mnarc123/CAE-Algorithm/CONTRIBUTING.md).
+Thank you for your contribution to the CAE Algorithm project! Before submitting this Pull Request, please make sure your changes do not duplicate efforts proposed by others. Also, ensure you have read the [contributing guidelines](https://github.com/mnarc123/CAE-Algorithm/blob/main/CONTRIBUTING.md).
 
 ## Description
 

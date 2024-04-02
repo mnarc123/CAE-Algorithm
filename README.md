@@ -112,7 +112,7 @@ Ensure that you handle all cryptographic materials (e.g., keys) securely in your
 
 ## Contributing
 
-We welcome contributions from the community, whether it's in the form of bug reports, feature requests, or code contributions. For more information on how to contribute, please refer to the [CONTRIBUTING.md](https://github.com/mnarc123/CAE-Algorithm/CONTRIBUTING.md) file.
+We welcome contributions from the community, whether it's in the form of bug reports, feature requests, or code contributions. For more information on how to contribute, please refer to the [CONTRIBUTING.md](https://github.com/mnarc123/CAE-Algorithm/blob/main/CONTRIBUTING.md) file.
 
 ## License
 
